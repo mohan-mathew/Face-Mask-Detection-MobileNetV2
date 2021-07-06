@@ -1,5 +1,12 @@
 # Face Mask Detection
 ### COVID-19
+
+
+
+
+<img src="https://github.com/mohan-mathew/Face-Mask-Detection-MobileNetV2/blob/main/test-result.png" alt="My cool logo"/>
+
+
 Corona Virus Disease **(COVID-19)** pandemic is causing a health crisis. One of the effective methods against the virus is wearing a face mask. This project introduces face mask detection that can be used by the authorities to make mitigation, evaluation, prevention, and action planning against COVID-19. 
 
 
