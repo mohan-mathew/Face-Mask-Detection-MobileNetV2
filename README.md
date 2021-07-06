@@ -6,7 +6,7 @@ Corona Virus Disease **(COVID-19)** pandemic is causing a health crisis. One of 
 The face mask recognition in this study is developed with a machine learning algorithm through the image classification method: **MobileNetV2.**
 
 
-<img src="https://github.com/mohan-mathew/vehicle-counter-python/blob/main/1_UctRAiOt_tyXOJd4aX1rZg.png" alt="My cool logo"/>
+<img src="https://github.com/mohan-mathew/Face-Mask-Detection-MobileNetV2/blob/main/overview.png" alt="My cool logo"/>
 
 The steps for building the model are collecting the data, pre-processing, split the data, testing the model, and implement the model.
 The built model can detect people who are wearing a face mask and not wearing it at an accuracy of 92.85 percent.
